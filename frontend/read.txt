@@ -1,0 +1,25 @@
+parseint is nothing but convering string into number like "1","2" normlly "1"+"2"=12 use parseint
+it will add and convering into int it have some types of radix base 10,base 2,base 8, base 16
+10 means 1-9 numbers, 2 means binary 0,1 , 8 means 0-7,16 means 0-9 and a-f
+ex base 2 :101,2 means o/p 5 means 1x2 2square+ 0x2 1squ+ 1x2 0squ any number raised with the power of zero is 1
+
+
+
+
+responsive:
+
+5 ratings
+
+
+
+admin page means new react app:
+1.new page for admin login sign-up
+2.dashboard (to see user interaction, ratings,site traffic,profile,menubar )
+3.create,update,delete,read date , movie details, theaters , locations (main admin access everything)
+4.create theaters seat arrangements for each theaters , timing , local locations and how many screens are there in the theater (local admins work they did`nt access the main admin page )
+5.local dashboard has to see how many ticket are booking in his theater see available seats and show screens theater traffic
+
+
+
+
+ 
